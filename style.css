@@ -1,0 +1,20 @@
+.footer{
+    width: 50%;
+    margin: 0 auto;
+    height: 200px;
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    background-color: aqua;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+a:hover{
+    background-color: blue;
+}
